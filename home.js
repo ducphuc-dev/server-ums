@@ -16,7 +16,11 @@ var ex = {
       {
         "user": "Duc Nghia",
         "content": "Tuyet voi"
-      }
+      },
+      {
+        "user": "Dinh Tin",
+        "content": "WOW!!!"
+      },
     ] 
   }
 }
