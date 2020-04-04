@@ -6,7 +6,7 @@ var ex = {
   "total_current_user": 110,
   "rank": 5,
   "total_reviewer": 17,
-  "comment:" {
+  "comment": {
     "count": 14,
     "data": {
       {
