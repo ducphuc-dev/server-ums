@@ -1,5 +1,5 @@
 var ex = {
-  "name": "Ums - Husc Analyst",
+  "name": "Ums - Husc Analyst 1",
   "version": "1.2.0",
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
