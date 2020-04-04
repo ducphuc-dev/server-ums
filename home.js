@@ -8,7 +8,7 @@ var ex = {
   "total_reviewer": 17,
   "comment": {
     "count": 14,
-    "data": {
+    "data": [
       {
         "user": "Phuc Ngo",
         "content": "Good"
@@ -17,6 +17,6 @@ var ex = {
         "user": "Duc Nghia",
         "content": "Tuyet voi"
       }
-    } 
+    ] 
   }
 }
