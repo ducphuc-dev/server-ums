@@ -6,5 +6,17 @@ var ex = {
   "total_current_user": 110,
   "rank": 5,
   "total_reviewer": 17,
-  "total_comment": 14 
+  "comment:" {
+    "count": 14,
+    "data": {
+      {
+        "user": "Phuc Ngo",
+        "content": "Good"
+      },
+      {
+        "user": "Duc Nghia",
+        "content": "Tuyet voi"
+      }
+    } 
+  }
 }
