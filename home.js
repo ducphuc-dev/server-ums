@@ -84,7 +84,7 @@ const ex = {
     {
       "stt": 4,
       "version": "v1.2.0",
-      "content": "Tính năng mới: Xuất bảng điểm",
+      "content": "Tính năng mới: Xuất bảng điểm. Cải thiện UI, thay đổi icon extension",
       "status": "Chờ duyệt",
       "launch_date": "08-04-2020"
     }
