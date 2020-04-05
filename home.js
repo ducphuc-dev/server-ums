@@ -13,31 +13,31 @@ var ex = {
     "data": [
       {
         "user": "Nhung Tôn",
-        "avatar": "https://ducphuc-dev.github.io/img/nhung_ton.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/nhung_ton.jpeg",
         "content": "Chất phết, đỡ phải ngồi tính cần thi mấy điểm",
         "created_at": "13-02-2020"
       },
       {
         "user": "Nghĩa Nguyễn Đức",
-        "avatar": "",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/duc_nghia.gif",
         "content": "Khá tiện ích với những người lười như mình!",
         "created_at": "30-01-2020"
       },
       {
         "user": "Tran Van Quang Huy",
-        "avatar": "https://ducphuc-dev.github.io/img/quang_huy.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/quang_huy.jpeg",
         "content": "Cung cấp nhiều thông tin hữu ích, perfect <3",
         "created_at": "12-02-2020"
       },
       {
         "user": "Quốc Khánh Hoàng",
-        "avatar": "https://ducphuc-dev.github.io/img/quoc_khanh.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/quoc_khanh.jpeg",
         "content": "a useful extension...thanks",
         "created_at": "12-02-2020"
       },
       {
         "user": "Chi Ngô Thị Kim",
-        "avatar": "https://ducphuc-dev.github.io/img/kim_chi.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/kim_chi.jpeg",
         "content": "Good",
         "created_at": "03-03-2020"
       }
