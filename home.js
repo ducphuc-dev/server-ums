@@ -47,15 +47,11 @@ var ex = {
     {
       "content": "Phiên bản 1.3.0 chính thức ra mắt",
       "url": "https://ducphuc-dev.github.io",
-      "feather": "activity",
-      "background": "bg-info",
       "created_at": "15-04-2020"
     },
     {
       "content": "Giảng dạy trực tuyến",
       "url": "http://ums.husc.edu.vn/thong-bao-ve-viec-tiep-tuc-to-chuc-dao-tao-theo-hinh-thuc-truc-tuyen/",
-      "feather": "book",
-      "background": "bg-warning",
       "created_at": "24-03-2020"
     }
   ]
