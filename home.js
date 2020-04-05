@@ -8,7 +8,7 @@ var ex = {
   "highest_user": 120,
   "rate_avg": 5,
   "total_reviewer": 17,
-  "comment": {
+  "comments": {
     "count": 14,
     "data": [
       {
@@ -42,5 +42,21 @@ var ex = {
         "created_at": "03-03-2020"
       }
     ] 
-  }
+  },
+  "notifications": [
+    {
+      "content": "Phiên bản 1.3.0 chính thức ra mắt",
+      "url": "https://ducphuc-dev.github.io",
+      "feather": "activity",
+      "background": "bg-info",
+      "created_at": "15-04-2020"
+    },
+    {
+      "content": "Giảng dạy trực tuyến",
+      "url": "http://ums.husc.edu.vn/thong-bao-ve-viec-tiep-tuc-to-chuc-dao-tao-theo-hinh-thuc-truc-tuyen/",
+      "feather": "book",
+      "background": "bg-warning",
+      "created_at": "24-03-2020"
+    }
+  ]
 }
