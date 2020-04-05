@@ -13,7 +13,7 @@ var ex = {
     "data": [
       {
         "user": "Nhung Tôn",
-        "avatar": "https://ducphuc-dev.github.io/server-ums/img/nhung_ton.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/nhung_ton.jpg",
         "content": "Chất phết, đỡ phải ngồi tính cần thi mấy điểm",
         "created_at": "13-02-2020"
       },
@@ -25,19 +25,19 @@ var ex = {
       },
       {
         "user": "Tran Van Quang Huy",
-        "avatar": "https://ducphuc-dev.github.io/server-ums/img/quang_huy.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/quang_huy.jpg",
         "content": "Cung cấp nhiều thông tin hữu ích, perfect <3",
         "created_at": "12-02-2020"
       },
       {
         "user": "Quốc Khánh Hoàng",
-        "avatar": "https://ducphuc-dev.github.io/server-ums/img/quoc_khanh.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/quoc_khanh.jpg",
         "content": "a useful extension...thanks",
         "created_at": "12-02-2020"
       },
       {
         "user": "Chi Ngô Thị Kim",
-        "avatar": "https://ducphuc-dev.github.io/server-ums/img/kim_chi.jpeg",
+        "avatar": "https://ducphuc-dev.github.io/server-ums/img/kim_chi.jpg",
         "content": "Good",
         "created_at": "03-03-2020"
       }
