@@ -58,5 +58,35 @@ const ex = {
   "news": {
     "content": "Đức Phúc là tác giả của extension này. Hãy xem chàng trai này là ai nhé!!!",
     "url": "https://ducphuc-dev.github.io"
-  }
+  },
+  "histories": [
+    {
+      "stt": 1,
+      "version": "v1.1.0",
+      "content": "Ra mắt phiên bản đầu tiên, gồm các tính năng như: Xem điểm QTHT, Biểu đồ điểm theo học kỳ / năm, Nhận thông báo khi có tin nhắn mới, Đánh giá / thống kê, Tính điểm thi cần đạt",
+      "status": "Xuất bản",
+      "launch_date": "12-02-2020"
+    },
+    {
+      "stt": 2,
+      "version": "v1.1.1",
+      "content": "Sửa lỗi biểu đồ hệ 10 của học kỳ gần nhất và Làm tròn điểm dự kiến cần đạt theo thang điểm 0.25",
+      "status": "Xuất bản",
+      "launch_date": "19-02-2020"
+    },
+    {
+      "stt": 3,
+      "version": "v1.1.2",
+      "content": "Bổ sung đếm số học phần xếp loại F",
+      "status": "Xuất bản",
+      "launch_date": "22-02-2020"
+    },
+    {
+      "stt": 4,
+      "version": "v1.2.0",
+      "content": "Tính năng mới: Xuất bảng điểm",
+      "status": "Chờ duyệt",
+      "launch_date": "08-04-2020"
+    }
+  ]
 }
