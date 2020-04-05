@@ -54,5 +54,9 @@ var ex = {
       "url": "http://ums.husc.edu.vn/thong-bao-ve-viec-tiep-tuc-to-chuc-dao-tao-theo-hinh-thuc-truc-tuyen/",
       "created_at": "24-03-2020"
     }
-  ]
+  ],
+  "news": {
+    "content": "Đức Phúc là tác giả của extension này. Hãy xem chàng trai này là ai nhé!!!",
+    "url": "https://ducphuc-dev.github.io"
+  }
 }
