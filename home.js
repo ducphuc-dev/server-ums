@@ -63,7 +63,7 @@ const ex = {
     {
       "stt": 1,
       "version": "v1.1.0",
-      "content": "Ra mắt phiên bản đầu tiên, gồm các tính năng như: Xem điểm QTHT, Biểu đồ điểm theo học kỳ / năm, Nhận thông báo khi có tin nhắn mới, Đánh giá / thống kê, Tính điểm thi cần đạt",
+      "content": "Xem điểm QTHT, Biểu đồ điểm theo học kỳ/năm, Thông báo khi có tin nhắn mới, Đánh giá/thống kê, Tính điểm thi cần đạt",
       "status": "Xuất bản",
       "launch_date": "12-02-2020"
     },
