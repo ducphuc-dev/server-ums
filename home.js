@@ -40,7 +40,7 @@ var ex = {
         "avatar": "https://ducphuc-dev.github.io/img/kim_chi.jpeg",
         "content": "Good",
         "created_at": "03-03-2020"
-      },
+      }
     ] 
   }
 }
