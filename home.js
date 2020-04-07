@@ -86,7 +86,14 @@ const ex = {
       "version": "v1.2.0",
       "content": "Tính năng mới: Xuất bảng điểm. Cải thiện UI, thay đổi icon extension",
       "status": "Chờ duyệt",
-      "launch_date": "08-04-2020"
-    }
+      "launch_date": "Chưa xác định"
+    },
+    {
+      "stt": 5,
+      "version": "v1.3.0",
+      "content": "Bổ sung dashboard, cái thiện UI, sửa lỗi xuất bảng điểm",
+      "status": "Đang xây dựng",
+      "launch_date": "Chưa xác định"
+    },
   ]
 }
