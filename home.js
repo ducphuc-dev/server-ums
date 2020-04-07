@@ -94,6 +94,6 @@ const ex = {
       "content": "Bổ sung dashboard, cái thiện UI, sửa lỗi xuất bảng điểm",
       "status": "Đang xây dựng",
       "launch_date": "Chưa xác định"
-    },
+    }
   ]
 }
