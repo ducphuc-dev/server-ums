@@ -45,9 +45,9 @@ const ex = {
   },
   "notifications": [
     {
-      "content": "Phiên bản 1.3.0 chính thức ra mắt",
-      "url": "https://ducphuc-dev.github.io",
-      "created_at": "15-04-2020"
+      "content": "Phiên bản 1.2.1 ra mắt",
+      "url": "https://chrome.google.com/webstore/detail/ums-husc-analyst/molgaipgjcjnmldejmkdjpcnmjbikgdc?hl=vi",
+      "created_at": "08-04-2020"
     },
     {
       "content": "Giảng dạy trực tuyến",
@@ -83,15 +83,15 @@ const ex = {
     },
     {
       "stt": 4,
-      "version": "v1.2.0",
-      "content": "Tính năng mới: Xuất bảng điểm. Cải thiện UI, thay đổi icon extension",
+      "version": "v1.2.1",
+      "content": "Tính năng mới: Dashboard. Cải thiện UI (Toolbox), thay đổi icon extension",
       "status": "Chờ duyệt",
       "launch_date": "Chưa xác định"
     },
     {
       "stt": 5,
       "version": "v1.3.0",
-      "content": "Bổ sung dashboard, cái thiện UI, sửa lỗi xuất bảng điểm",
+      "content": "Tính năng mới: Tạo ghi chú hẹn giờ",
       "status": "Đang xây dựng",
       "launch_date": "Chưa xác định"
     }
