@@ -1,10 +1,10 @@
 const ex = {
   "name": "Ums - Husc Analyst",
-  "version": "1.3.0",
+  "version": "1.2.1",
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
-  "updated_at": "15-04-2020",
-  "total_current_user": 112,
+  "updated_at": "18-04-2020",
+  "total_current_user": 102,
   "highest_user": 120,
   "rate_avg": 5,
   "total_reviewer": 17,
