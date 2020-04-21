@@ -4,7 +4,7 @@ const ex = {
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
   "updated_at": "19-04-2020",
-  "total_current_user": 103,
+  "total_current_user": 106,
   "highest_user": 120,
   "rate_avg": 5,
   "total_reviewer": 17,
@@ -44,6 +44,11 @@ const ex = {
     ] 
   },
   "notifications": [
+    {
+      "content": "Đăng ký học phần Ngoại ngữ không chuyên học kỳ 2 và học kỳ 3",
+      "url": "http://ums.husc.edu.vn/thong-bao-v-v-dang-ky-hoc-phan-ngoai-ngu-khong-chuyen-hoc-ky-2-va-hoc-ky-3-dot-2-nam-hoc-2019-2020-hinh-thuc-hoc-tap-truc-tuyen-tai-truong-dai-hoc-ngoai-ngu-dai-hoc-hue/",
+      "created_at": "15-04-2020"
+    },
     {
       "content": "Phiên bản 1.2.1 ra mắt",
       "url": "https://chrome.google.com/webstore/detail/ums-husc-analyst/molgaipgjcjnmldejmkdjpcnmjbikgdc?hl=vi",
