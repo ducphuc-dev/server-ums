@@ -95,6 +95,13 @@ const ex = {
     },
     {
       "stt": 5,
+      "version": "v1.2.2",
+      "content": "Tính năng mới: Xuất bảng điểm QTHT (Thử nghiệm).",
+      "status": "Đang xây dựng",
+      "launch_date": "Chưa xác định"
+    },
+    {
+      "stt": 6,
       "version": "v1.3.0",
       "content": "Tính năng mới: Tạo ghi chú hẹn giờ",
       "status": "Đang xây dựng",
