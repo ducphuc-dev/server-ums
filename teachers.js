@@ -100,7 +100,7 @@ var teachers = {
                 },
                 {
                     name: "Phạm Thị Ngọc Lan",
-                    degree: "Giảng viên - Thạc sỹ",
+                    degree: "GV-ThS",
                     phone: "0905237505",
                     email: "ngoclanz@yahoo.com",
                     subject: "",
