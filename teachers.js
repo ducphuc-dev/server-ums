@@ -2,6 +2,7 @@ var teachers = {
     "department": [
         {
             "name": "CNTT",
+            "short_name": "CNTT",
             "teacher_info": [
                 {
                     name: "Nguyễn Đăng Bình",
@@ -55,6 +56,7 @@ var teachers = {
         },
         {
             "name": "Sinh học",
+            "short_name": "sinh-hoc",
             "teacher_info": [
                 {
                     name: "Nguyễn Minh Trí",
