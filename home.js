@@ -102,8 +102,8 @@ const ex = {
     },
     {
       "stt": 6,
-      "version": "v1.3.0",
-      "content": "Tính năng mới: Tạo ghi chú hẹn giờ",
+      "version": "v1.3.1",
+      "content": "Tính năng mới: Tạo ghi chú hẹn giờ, Xem thông tin giảng viên. Cho phép đi đến trang tin nhắn của trang tín chỉ khi nhấn vào thông báo",
       "status": "Đang xây dựng",
       "launch_date": "Chưa xác định"
     }
