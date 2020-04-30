@@ -4,8 +4,8 @@ const ex = {
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
   "updated_at": "22-04-2020",
-  "total_current_user": 124,
-  "highest_user": 124,
+  "total_current_user": 127,
+  "highest_user": 127,
   "rate_avg": 5,
   "total_reviewer": 17,
   "comments": {
