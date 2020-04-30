@@ -98,7 +98,7 @@ const ex = {
       "version": "v1.2.2",
       "content": "Tính năng mới: Xuất bảng điểm QTHT (Thử nghiệm).",
       "status": "Xuất bản",
-      "launch_date": "24-04-2020"
+      "launch_date": "22-04-2020"
     },
     {
       "stt": 6,
