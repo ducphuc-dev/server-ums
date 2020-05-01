@@ -51,6 +51,54 @@ var teachers = {
                     email: "nguyendung@hueuni.edu.vn",
                     subject: "Công nghệ Phần mềm",
                     avatar: "http://it.husc.edu.vn/Media/Image/Avatar/130419364564108460.jpg"
+                },
+                {
+                    name: "Võ Việt Dũng",
+                    degree: "GV-ThS",
+                    phone: "",
+                    email: "voviet_dung@yahoo.com",
+                    subject: "Mạng và truyền thông",
+                    avatar: "http://it.husc.edu.vn/Media/Image/Avatar/130759988114706879.jpg"
+                },
+                {
+                    name: "Nguyễn Hoàng Hà",
+                    degree: "GV-TS",
+                    phone: "0914426033",
+                    email: "nhha76@gmail.com",
+                    subject: "Công nghệ Phần mềm",
+                    avatar: "http://it.husc.edu.vn/Media/Image/Avatar/130759996559559897.jpg"
+                },
+                {
+                    name: "Nguyễn Mậu Hân",
+                    degree: "GV-PGS-TS",
+                    phone: "0905591515",
+                    email: "nmhan2005@yahoo.com",
+                    subject: "Công nghệ Phần mềm",
+                    avatar: "http://it.husc.edu.vn/Media/Image/Avatar/130396506815226271.jpg"
+                },
+                {
+                    name: "Nguyễn Việt Hùng",
+                    degree: "GV-ThS",
+                    phone: "",
+                    email: "hungnv_73@yahoo.com",
+                    subject: "Mạng và truyền thông",
+                    avatar: "http://it.husc.edu.vn/Media/Image/Avatar/130759988223463099.jpg"
+                },
+                {
+                    name: "Nguyễn Quang Hưng",
+                    degree: "GV-ThS",
+                    phone: "",
+                    email: "nqhung@gmail.com",
+                    subject: "Mạng và truyền thông",
+                    avatar: "http://it.husc.edu.vn/Media/Image/Avatar/130739694819293334.jpg"
+                },
+                {
+                    name: "Trần Việt Khoa",
+                    degree: "GV-ThS",
+                    phone: "",
+                    email: "tvkhoa.husc@gmail.com",
+                    subject: "Hệ thống Thông tin",
+                    avatar: "http://it.husc.edu.vn/Media/Image/Avatar/130760311804317463.jpg"
                 }
             ]
         },
