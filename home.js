@@ -45,14 +45,14 @@ const ex = {
   },
   "notifications": [
     {
+      "content": "Kế hoạch đào tạo HK2-2020",
+      "url": "https://drive.google.com/file/d/1xSg3xHRGx3jnVvrAiodOEqWTgeh_Z-00/view",
+      "created_at": "01-05-2020"
+    },
+    {
       "content": "Đăng ký học phần Ngoại ngữ không chuyên học kỳ 2 và học kỳ 3",
       "url": "http://ums.husc.edu.vn/thong-bao-v-v-dang-ky-hoc-phan-ngoai-ngu-khong-chuyen-hoc-ky-2-va-hoc-ky-3-dot-2-nam-hoc-2019-2020-hinh-thuc-hoc-tap-truc-tuyen-tai-truong-dai-hoc-ngoai-ngu-dai-hoc-hue/",
       "created_at": "15-04-2020"
-    },
-    {
-      "content": "Phiên bản 1.2.1 ra mắt",
-      "url": "https://chrome.google.com/webstore/detail/ums-husc-analyst/molgaipgjcjnmldejmkdjpcnmjbikgdc?hl=vi",
-      "created_at": "08-04-2020"
     },
     {
       "content": "Giảng dạy trực tuyến",
