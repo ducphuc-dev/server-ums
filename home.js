@@ -1,11 +1,11 @@
 const ex = {
   "name": "Ums - Husc Analyst",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
-  "updated_at": "27-05-2020",
-  "total_current_user": 131,
-  "highest_user": 131,
+  "updated_at": "07-06-2020",
+  "total_current_user": 132,
+  "highest_user": 132,
   "rate_avg": 5,
   "total_reviewer": 17,
   "comments": {
@@ -109,6 +109,13 @@ const ex = {
     },
     {
       "stt": 7,
+      "version": "v1.2.4",
+      "content": "Sửa lỗi không nhận được thông báo khi có tin nhắn",
+      "status": "Xuất bản",
+      "launch_date": "07-06-2020"
+    },
+    {
+      "stt": 8,
       "version": "v1.3.1",
       "content": "Tính năng mới: Tạo ghi chú hẹn giờ, Xem thông tin giảng viên. Cho phép đi đến trang tin nhắn của trang tín chỉ khi nhấn vào thông báo",
       "status": "Đang xây dựng",
