@@ -4,8 +4,8 @@ const ex = {
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
   "updated_at": "07-06-2020",
-  "total_current_user": 180,
-  "highest_user": 180,
+  "total_current_user": 182,
+  "highest_user": 182,
   "rate_avg": 5,
   "total_reviewer": 17,
   "comments": {
@@ -45,9 +45,9 @@ const ex = {
   },
   "notifications": [
     {
-      "content": "Kế hoạch đào tạo HK2-2020",
-      "url": "https://drive.google.com/file/d/1xSg3xHRGx3jnVvrAiodOEqWTgeh_Z-00/view",
-      "created_at": "01-05-2020"
+      "content": "Thông báo v/v điều chỉnh lịch thi kết thúc học phần học kỳ 2, năm học 2019-2020",
+      "url": "https://drive.google.com/file/d/1ALT-Lohp03vkuOJ6mLi6YFFPXW7x_PYQ/view",
+      "created_at": "18-06-2020"
     },
     {
       "content": "Đăng ký học phần Ngoại ngữ không chuyên học kỳ 2 và học kỳ 3",
