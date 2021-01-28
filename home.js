@@ -1,11 +1,11 @@
 const ex = {
   "name": "Ums - Husc Analyst",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
-  "updated_at": "07-06-2020",
-  "total_current_user": 226,
-  "highest_user": 226,
+  "updated_at": "28-01-2021",
+  "total_current_user": 239,
+  "highest_user": 239,
   "rate_avg": 5,
   "total_reviewer": 23,
   "comments": {
@@ -116,7 +116,7 @@ const ex = {
     },
     {
       "stt": 8,
-      "version": "v1.2.5",
+      "version": "v1.2.6",
       "content": "Sửa lỗi đánh giá học lực và bật/tắt tính năng",
       "status": "Xuất bản",
       "launch_date": "01-07-2020"
