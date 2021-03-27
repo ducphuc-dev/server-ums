@@ -4,12 +4,12 @@ const ex = {
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
   "updated_at": "28-01-2021",
-  "total_current_user": 239,
-  "highest_user": 239,
+  "total_current_user": 257,
+  "highest_user": 257,
   "rate_avg": 5,
-  "total_reviewer": 23,
+  "total_reviewer": 29,
   "comments": {
-    "count": 20,
+    "count": 24,
     "data": [
       {
         "user": "Nhung Tôn",
@@ -44,21 +44,7 @@ const ex = {
     ] 
   },
   "notifications": [
-    {
-      "content": "Thông báo v/v điều chỉnh lịch thi kết thúc học phần học kỳ 2, năm học 2019-2020",
-      "url": "https://drive.google.com/file/d/1ALT-Lohp03vkuOJ6mLi6YFFPXW7x_PYQ/view",
-      "created_at": "18-06-2020"
-    },
-    {
-      "content": "Đăng ký học phần Ngoại ngữ không chuyên học kỳ 2 và học kỳ 3",
-      "url": "http://ums.husc.edu.vn/thong-bao-v-v-dang-ky-hoc-phan-ngoai-ngu-khong-chuyen-hoc-ky-2-va-hoc-ky-3-dot-2-nam-hoc-2019-2020-hinh-thuc-hoc-tap-truc-tuyen-tai-truong-dai-hoc-ngoai-ngu-dai-hoc-hue/",
-      "created_at": "15-04-2020"
-    },
-    {
-      "content": "Giảng dạy trực tuyến",
-      "url": "http://ums.husc.edu.vn/thong-bao-ve-viec-tiep-tuc-to-chuc-dao-tao-theo-hinh-thuc-truc-tuyen/",
-      "created_at": "24-03-2020"
-    }
+    
   ],
   "news": {
     "content": "Đức Phúc là tác giả của extension này. Hãy xem chàng trai này là ai nhé!!!",
