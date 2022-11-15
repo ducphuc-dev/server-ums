@@ -4,10 +4,10 @@ const ex = {
   "description": "Tiện ích này giúp bạn quản lý, thống kê điểm của bạn, dành cho các bạn theo học tại Đại học Khoa học Huế",
   "author": "ducphuc-dev",
   "updated_at": "28-01-2021",
-  "total_current_user": 277,
-  "highest_user": 277,
+  "total_current_user": 383,
+  "highest_user": 383,
   "rate_avg": 5,
-  "total_reviewer": 29,
+  "total_reviewer": 30,
   "comments": {
     "count": 24,
     "data": [
@@ -111,8 +111,8 @@ const ex = {
       "stt": 9,
       "version": "v1.3.1",
       "content": "Tính năng mới: Tạo ghi chú hẹn giờ, Xem thông tin giảng viên. Cho phép đi đến trang tin nhắn của trang tín chỉ khi nhấn vào thông báo",
-      "status": "Đang xây dựng",
-      "launch_date": "Chưa xác định"
+      "status": "Xuất bản",
+      "launch_date": "07-07-2020"
     }
   ]
 }
